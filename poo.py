@@ -1,7 +1,7 @@
-# orientação a objetos = paradigma de programação.
-# python = multiparadigma 
+# # orientação a objetos = paradigma de programação.
+# # python = multiparadigma 
 
-#classes e objetos 
+# #classes e objetos 
 
 class Veiculo: 
     def movimento(self):
