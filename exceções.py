@@ -1,4 +1,4 @@
-# # exceção é um objeto que representa um erro que ocorreu ao executar o programa.
+ # exceção é um objeto que representa um erro que ocorreu ao executar o programa.
 # # blocos try... except
 
 
